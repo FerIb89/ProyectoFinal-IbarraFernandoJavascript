@@ -121,7 +121,7 @@ const pintarCarrito = () => {
         else
         {
             Swal.fire('Pago procesado!',
-            'Muchas gracias por su compra, vuela pronto!',
+            'Muchas gracias por su compra, vuelva pronto!',
             'success');
         }        
     }
