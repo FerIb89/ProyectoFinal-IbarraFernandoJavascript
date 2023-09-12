@@ -112,9 +112,18 @@ const pintarCarrito = () => {
     modalContainer.append(totalCompra);
 
     document.getElementById("procederPago").onclick = function () {
-        Swal.fire('Pago procesado!',
+        if (total == 0)
+        {
+            Swal.fire('No hay productos en el carrito',
+            'agregue productos para realizar la compra',
+            'error');            
+        }
+        else
+        {
+            Swal.fire('Pago procesado!',
             'Muchas gracias por su compra, vuela pronto!',
             'success');
+        }        
     }
 };
 
