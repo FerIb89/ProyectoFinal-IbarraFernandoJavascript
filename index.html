@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  <link rel="stylesheet" href="sweetalert2.min.css">
+  <link rel="stylesheet" href="./css/styles.css" />
+  <title>Fruteria 2.0</title>
+  <link rel="shortcut icon" href="./img/fruteria.png">
+</head>
+
+<body>
+  <header>
+
+    <div class="nav-container">
+      <div class="navMenu">
+        <nav class="navbar">
+          <h1 class="navbar-logo">Bienvenidos a su fruteria virtual!</h1>
+          <button class="ver-carrito" id="verCarrito"> 🛒 <span id="cantidadCarrito"
+              class="cantidad-carrito"></span></button>
+        </nav>
+      </div>
+  </header>
+
+  <div id="shopContent" class="shop-content"></div>
+  <div id="modal-container" class="modal-container"></div>
+  <script src="./js/mercaderia.js"></script>
+  <script src="./js/main.js"></script>
+  <script src="./js/carrito.js"></script>
+  <script type="text/javascript" class="toastify" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>

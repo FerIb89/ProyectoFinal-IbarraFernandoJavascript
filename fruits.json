@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manzana Roja",
+        "precio": 800,
+        "img": "./img/mercaderia/manzana.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Manzana Verde",
+        "precio": 950,
+        "img": "./img/mercaderia/manzana verde.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Naranja",
+        "precio": 450,
+        "img": "./img/mercaderia/naranja.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Mandarina",
+        "precio": 500,
+        "img": "./img/mercaderia/mandarina.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Banana",
+        "precio": 700,
+        "img": "./img/mercaderia/banana.png",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Pera",
+        "precio": 550,
+        "img": "./img/mercaderia/pera.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Frutilla",
+        "precio": 800,
+        "img": "./img/mercaderia/frutilla.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Kiwi",
+        "precio": 1250,
+        "img": "./img/mercaderia/kiwi.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Durazno",
+        "precio": 630,
+        "img": "./img/mercaderia/durazno.png",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Sandia",
+        "precio": 850,
+        "img": "./img/mercaderia/sandia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Pomelo Amarillo",
+        "precio": 500,
+        "img": "./img/mercaderia/pomelo amarillo.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Pomelo Rosado",
+        "precio": 650,
+        "img": "./img/mercaderia/pomelo rosado.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Anana",
+        "precio": 1250,
+        "img": "./img/mercaderia/anana.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Arandanos",
+        "precio": 2000,
+        "img": "./img/mercaderia/arandanos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Frambuesa",
+        "precio": 1200,
+        "img": "./img/mercaderia/frambuesa.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Mango",
+        "precio": 760,
+        "img": "./img/mercaderia/mango.jpg",
+        "cantidad": 1
+    }
+]
